@@ -1,7 +1,7 @@
 # 3D Printed Collar
 
 Hi! You can found here some .stl for 3d collars.
-Unless otherwise specified, the internal diameter is 11 mm
+Unless otherwise specified, the internal diameter is 110 mm
 
 ## M3
 This Collar use 2 M3 bolts to make the hinge and the lock.
